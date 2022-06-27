@@ -1178,6 +1178,9 @@ header {
     z-index: 3;
   }
 
+  .hamburger .bar {
+    background-color: var(--text-background);
+  }
   .hamburger.active .bar {
     background-color: #f6f6f6;
   }
